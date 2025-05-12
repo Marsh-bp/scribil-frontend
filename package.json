@@ -2,14 +2,6 @@
   "name": "notes-app",
   "version": "1.0.0",
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
-  "homepage": "https://github.com/nidharshana-s/Scribil#readme",
-  "bugs": {
-    "url": "https://github.com/nidharshana-s/Scribil/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nidharshana-s/Scribil.git"
-  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
